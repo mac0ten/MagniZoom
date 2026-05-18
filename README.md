@@ -6,7 +6,7 @@ MagniZoom is a prototype Android magnifier app built with Kotlin and Jetpack Com
 
 ## Screenshots
 
-Privacy-safe app previews live in `docs/screenshots/` and show the current magnifier and overlay prototype without real device, account, or third-party app content.
+Current app screenshots live in `docs/screenshots/` and show the magnifier and overlay prototype in use.
 
 | Overlay Menu | Overlay Lens |
 | --- | --- |
@@ -18,10 +18,14 @@ Privacy-safe app previews live in `docs/screenshots/` and show the current magni
 
 ## Demo Videos
 
-Compressed, metadata-stripped demo recordings live in `docs/videos/`. The raw source recordings are not committed.
+Compressed demo recordings live in `docs/videos/`.
 
 - [Main magnifier demo](docs/videos/main-magnifier-demo.mp4)
 - [Overlay target-app demo](docs/videos/overlay-target-app-demo.mp4)
+
+[![Main magnifier demo thumbnail](docs/screenshots/magnifier-dashboard.png)](docs/videos/main-magnifier-demo.mp4)
+
+[![Overlay target-app demo thumbnail](docs/screenshots/overlay-menu.png)](docs/videos/overlay-target-app-demo.mp4)
 
 ## Features
 
