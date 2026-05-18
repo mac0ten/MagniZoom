@@ -1,0 +1,32 @@
+*.iml
+.gradle/
+.kotlin/
+local.properties
+
+# Android Studio
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Gradle and Android build outputs
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+
+# Local verification artifacts
+runtime/
+
+# Secrets and signing material
+.env
+.env.*
+*.jks
+*.keystore
+*.p12
+*.pem
